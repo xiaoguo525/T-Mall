@@ -1,0 +1,75 @@
+{
+    "201708250":{
+        "id":"201708250",
+        "data":[
+            {
+                "_self_acm":"jhs.turing.tmallpc_homepage_brandactivity.default",
+                "ka_workflow_resourceCode":"201708250",
+                "_pos_":1,
+                "entityType":"THJH",
+                "acm":"jhs.turing.tmallpc_homepage_brandactivity.default",
+                "_s_":"d",
+                "pageParam":"scm=1049.4.0.28752-THJH_47321",
+                "ctrClickParam":"impid=7xZLY90inGB;scm=1049.4.0.28752-THJH_47321;bucket=5;aldid=9SnyOpKx;pvuuid=9SnyOpKx",
+                "imgUrl":"//img.alicdn.com/tps/i4/TB1ddS7nkyWBuNjy0FpSuussXXa.jpg",
+                "title_cn":"品牌活动",
+                "action":"https://wenbiquan.tmall.com/?bucket=5&pos=1&acm=jhs.turing.tmallpc_homepage_brandactivity.default&scm=1049.4.0.28752-THJH_47321&impid=7xZLY90inGB",
+                "title_en":"BRAND ACTIVITY",
+                "scm":"1049.4.0.28752-THJH_47321",
+                "_self_scm":"1049.4.0.28752-THJH_47321",
+                "dataSourceType":"turing",
+                "exposureParam":"https://wgo.mmstat.com/turing.plan.1?t=1457679710533&pos=1&gokey=impid%3D7xZLY90inGB%26scm%3D1049.4.0.28752-THJH_47321%26bucket%3D5%26aldid%3D9SnyOpKx%26pvuuid%3D9SnyOpKx&acm=jhs.turing.tmallpc_homepage_brandactivity.default&scm=1049.4.0.28752-THJH_47321"
+            }
+        ],
+        "exposureParam":"https://wgo.mmstat.com/turing.plan.1?t=1457679710533&pos=1&gokey=impid%3D7xZLY90inGB%26scm%3D1049.4.0.28752-THJH_47321%26bucket%3D5%26aldid%3D9SnyOpKx%26pvuuid%3D9SnyOpKx&acm=jhs.turing.tmallpc_homepage_brandactivity.default&scm=1049.4.0.28752-THJH_47321",
+        "serverTime":1525180190491,
+        "_self_acm":"jhs.turing.tmallpc_homepage_brandactivity.default",
+        "ka_workflow_resourceCode":"201708250",
+        "_pos_":1,
+        "entityType":"THJH",
+        "acm":"jhs.turing.tmallpc_homepage_brandactivity.default",
+        "_s_":"d",
+        "pageParam":"scm=1049.4.0.28752-THJH_47321",
+        "ctrClickParam":"impid=7xZLY90inGB;scm=1049.4.0.28752-THJH_47321;bucket=5;aldid=9SnyOpKx;pvuuid=9SnyOpKx",
+        "imgUrl":"//img.alicdn.com/tps/i4/TB1ddS7nkyWBuNjy0FpSuussXXa.jpg",
+        "title_cn":"品牌活动",
+        "action":"https://wenbiquan.tmall.com/?bucket=5&pos=1&acm=jhs.turing.tmallpc_homepage_brandactivity.default&scm=1049.4.0.28752-THJH_47321&impid=7xZLY90inGB",
+        "title_en":"BRAND ACTIVITY",
+        "scm":"1049.4.0.28752-THJH_47321",
+        "_self_scm":"1049.4.0.28752-THJH_47321",
+        "dataSourceType":"turing",
+        "success":true
+    },
+    "201708280":{
+        "id":"201708280",
+        "data":[
+            {
+                "imgUrl":"https://img.alicdn.com/tfs/TB1D1u0oFOWBuNjy0FiXXXFxVXa-468-644.jpg",
+                "_pos_":1,
+                "entityType":"OTHER",
+                "title_cn":"品牌闪购",
+                "action":"https://ju.taobao.com/jusp/o/ppshangou/tp.htm?pos=1&acm=201708280-1.1003.2.3329484&scm=1003.2.201708280-1.OTHER_1526106496807_3329484",
+                "acm":"201708280-1.1003.2.3329484",
+                "_s_":"d",
+                "title_en":"BRAND SALE",
+                "id":"1526106496807",
+                "scm":"1003.2.201708280-1.OTHER_1526106496807_3329484"
+            },
+            {
+                "imgUrl":"https://img.alicdn.com/tps/i4/TB1fbhiawoQMeJjy0FnSuv8gFXa.jpg",
+                "_pos_":2,
+                "entityType":"OTHER",
+                "title_cn":"聚名品",
+                "action":"https://ju.taobao.com/jusp/other/mingpin/tp.htm?pos=2&acm=201708280-2.1003.64.2111723&scm=1003.64.201708280-2.OTHER_1504574030405_2111723",
+                "acm":"201708280-2.1003.64.2111723",
+                "_s_":"d",
+                "title_en":"LUXURY CHANNEL",
+                "id":"1504574030405",
+                "scm":"1003.64.201708280-2.OTHER_1504574030405_2111723"
+            }
+        ],
+        "exposureParam":"//ac.mmstat.com/1.gif?com=02&logtype=4&cache=ez8CwdJs&abtest=&apply=vote&abbucket=&cod=201708280&acm=201708280.1.1003&scm=1003.1.201708280",
+        "serverTime":1525180190491,
+        "success":true
+    }
+}
